@@ -2,7 +2,7 @@
 
 Novelty Deep Kernel Learning Driven Autonomous Microscopy and Dual Variational Autoencoder Structure-Property Correlation Analysis
 
-Citation: If you use the approach in your work, please cite (https://pubs.acs.org/ancac3/article/doi/10.1021/acsnano.6c04715/5237620/Accelerating-Structure-Property-Relationship)]
+Citation: If you use the approach in your work, please cite https://pubs.acs.org/ancac3/article/doi/10.1021/acsnano.6c04715/5237620/Accelerating-Structure-Property-Relationship
 
 Self-driving AFM experiment and post-experiment analysis for perovskite (PVSK) IV curve mapping using image- and spectrum-novelty-guided Bayesian active learning, combined with im2spec variational autoencoder for structure–property relationship discovery.
 
